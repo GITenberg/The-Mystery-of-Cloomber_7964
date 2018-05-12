@@ -1,5 +1,8 @@
 _repo: The-Mystery-of-Cloomber_7964
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -17,6 +20,8 @@ description: "The Mystery of Cloomber is a novel by the British author Sir Arthu
   \ his family from Edinburgh to Wigtownshire to care for the estate of his father's\
   \ half brother, William Farintosh. It was first published in 1889.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7964#The-Mystery-of-Cloomber
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
